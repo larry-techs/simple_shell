@@ -12,3 +12,9 @@ Open the file `config` and update the variable `SHELL` with your shell
 ## Run
 
 Usage `./check_simple_shell.bash`
+
+## Authors
+[Robert Kamau Njonjo](https://github.com/M1urray) | [Lawrence Mutethia](https://github.com/larry-techs)
+
+
+
